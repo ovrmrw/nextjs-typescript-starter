@@ -8,10 +8,11 @@
   },
   "engineStrict": true,
   "scripts": {
+    "test": "echo \"test\"",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "format": "prettier --write **/*.{js,jsx,ts,tsx,css,json} --no-error-on-unmatched-pattern"
+    "format": "prettier --write **/*.{js,jsx,ts,tsx,css,json,yaml} --no-error-on-unmatched-pattern"
   },
   "dependencies": {
     "next": "10.2.0",
