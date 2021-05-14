@@ -12,7 +12,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "format": "prettier --write **/*.{js,jsx,ts,tsx,css,json,yaml} --no-error-on-unmatched-pattern"
+    "format": "prettier --write ."
   },
   "dependencies": {
     "next": "10.2.0",

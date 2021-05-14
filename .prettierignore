@@ -5,3 +5,5 @@ package.json
 package-lock.json
 tsconfig.json
 next-env.d.ts
+
+*.md
